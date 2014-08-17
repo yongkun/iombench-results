@@ -21,6 +21,7 @@ __Please note that these results may not represent the optimal performance of me
 ##Hitachi HGST HDS72107 750GB
 
 ##Intel X25-E 64GB
+
 Configuration and explanation: [IEICE Yongkun Wang](http://www.tkl.iis.u-tokyo.ac.jp/~yongkun/paper/ieice-yongkun-wang-final.pdf)
 
 ### Sequential Throughput
@@ -38,6 +39,8 @@ Configuration and explanation: [IEICE Yongkun Wang](http://www.tkl.iis.u-tokyo.a
 
 ##Mtron PRO 7500 32GB
 
+Configuration and explanation: [IEICE Yongkun Wang](http://www.tkl.iis.u-tokyo.ac.jp/~yongkun/paper/ieice-yongkun-wang-final.pdf)
+
 ### Sequential Throughput
 ![iombench-mtron-seq-thrpt-1.png](./mtron-pro-7500/iombench-mtron-seq-thrpt-1.png)
 ### Random Throughput
@@ -52,6 +55,9 @@ Configuration and explanation: [IEICE Yongkun Wang](http://www.tkl.iis.u-tokyo.a
 ![iombench-mix-rnd-mtron-iops.png](./mtron-pro-7500/iombench-mix-rnd-mtron-iops.png)
 
 ##OCZ Vertex EX 120GB
+
+Configuration and explanation: [IEICE Yongkun Wang](http://www.tkl.iis.u-tokyo.ac.jp/~yongkun/paper/ieice-yongkun-wang-final.pdf)
+
 ### Sequential Throughput
 ![iombench-ocz-seq-thrpt-1.png](./ocz-vertex-ex/iombench-ocz-seq-thrpt-1.png)
 ### Random Throughput
