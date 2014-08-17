@@ -21,16 +21,16 @@ __Please note that these results may not represent the optimal performance of me
 ##Hitachi HGST HDS72107 750GB
 
 ##Intel X25-E 64GB
-- Sequential Throughput
+### Sequential Throughput
 ![iombench-intel-seq-thrpt-1.png](./intel-x25e/iombench-intel-seq-thrpt-1.png)
-- Random Throughput
+### Random Throughput
 ![iombench-intel-rnd1-iops-1.png](./intel-x25e/iombench-intel-rnd1-iops-1.png)
-- Random Throughput (30 threads)
+### Random Throughput (30 threads)
 ![iombench-intel-rnd30-iops-1.png](./intel-x25e/iombench-intel-rnd30-iops-1.png)
-- Sequential Throughput with mixed Reads/Writes
+### Sequential Throughput with mixed Reads/Writes
 ![iombench-mix-seq-intel.png](./intel-x25e/iombench-mix-seq-intel.png)
 ![iombench-mix-seq-intel-throughput.png](./intel-x25e/iombench-mix-seq-intel-throughput.png)
-- Random Throughput with mixed Reads/Writes
+### Random Throughput with mixed Reads/Writes
 ![iombench-mix-rnd-intel.png](./intel-x25e/iombench-mix-rnd-intel.png)
 ![iombench-mix-rnd-intel-iops.png](./intel-x25e/iombench-mix-rnd-intel-iops.png)
 
