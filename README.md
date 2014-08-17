@@ -4,7 +4,6 @@ __Please note that these results may not represent the optimal performance of me
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Test results by iombench.](#user-content-test-results-by-iombench)
 - [Devices](#user-content-devices)
 	- [Hitachi HGST HDS72107 750GB](#user-content-hitachi-hgst-hds72107-750gb)
 	- [Intel X25-E 64GB](#user-content-intel-x25-e-64gb)
