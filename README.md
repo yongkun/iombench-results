@@ -1,4 +1,4 @@
-#Test results by [iombench](https://github.com/yongkun/iombench).
+#Benchmark results by [iombench](https://github.com/yongkun/iombench).
 
 __Please note that these results may not represent the optimal performance of measured devices or systems.__ Your results might be different with your configurations.
 
