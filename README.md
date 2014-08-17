@@ -21,6 +21,8 @@ __Please note that these results may not represent the optimal performance of me
 ##Hitachi HGST HDS72107 750GB
 
 ##Intel X25-E 64GB
+Configuration and explanation: [IEICE Yongkun Wang](http://www.tkl.iis.u-tokyo.ac.jp/~yongkun/paper/ieice-yongkun-wang-final.pdf)
+
 ### Sequential Throughput
 ![iombench-intel-seq-thrpt-1.png](./intel-x25e/iombench-intel-seq-thrpt-1.png)
 ### Random Throughput
