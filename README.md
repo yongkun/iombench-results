@@ -38,8 +38,6 @@ __Please note that these results may not represent the optimal performance of me
 
 ### Sequential Throughput
 ![iombench-mtron-seq-thrpt-1.png](./mtron-pro-7500/iombench-mtron-seq-thrpt-1.png)
-![iombench-mtron-seq-rnd-thrpt-1.png](./mtron-pro-7500/iombench-mtron-seq-rnd-thrpt-1.png)
-![iombench-mtron-seq-rnd-thrpt.png](./mtron-pro-7500/iombench-mtron-seq-rnd-thrpt.png)
 ### Random Throughput
 ![iombench-mtron-rnd1-iops-1.png](./mtron-pro-7500/iombench-mtron-rnd1-iops-1.png)
 ### Random Throughput (30 threads)
@@ -50,7 +48,6 @@ __Please note that these results may not represent the optimal performance of me
 ### Random Performance with mixed Reads/Writes
 ![iombench-mix-rnd-mtron.png](./mtron-pro-7500/iombench-mix-rnd-mtron.png)
 ![iombench-mix-rnd-mtron-iops.png](./mtron-pro-7500/iombench-mix-rnd-mtron-iops.png)
-![iombench-mix-rnd-mtron-iops-write.png](./mtron-pro-7500/iombench-mix-rnd-mtron-iops-write.png)
 
 ##OCZ Vertex EX 120GB
 ### Sequential Throughput
